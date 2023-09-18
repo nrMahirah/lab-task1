@@ -9,7 +9,7 @@ Imports System.Runtime.InteropServices
 ' Review the values of the assembly attributes
 
 <Assembly: AssemblyTitle("MyCalculator")>
-<Assembly: AssemblyDescription("This calculator is made for students")>
+<Assembly: AssemblyDescription("This calculator is made for students to calculate the numbers")>
 <Assembly: AssemblyCompany("NurMahirah")>
 <Assembly: AssemblyProduct("MyCalculator")>
 <Assembly: AssemblyCopyright("Copyright ©  2023")>

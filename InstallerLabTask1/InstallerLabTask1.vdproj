@@ -188,7 +188,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:InstallerLabTask1"
         "ProductCode" = "8:{E06C952A-285B-48EE-8CB2-4D0B103E2B90}"
-        "PackageCode" = "8:{D1C82B8F-A88E-46B5-9598-ADD44264093C}"
+        "PackageCode" = "8:{F7F14E78-0013-4036-A9DD-4902420B459B}"
         "UpgradeCode" = "8:{CF108FA5-C2CD-4A6A-9326-FD585D6EB580}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
